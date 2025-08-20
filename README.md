@@ -1,12 +1,28 @@
-# Helper.GPT - AI Assistant Chatbot
+# 🤖 Helper.GPT - AI Chat Bot Receptionist
 
-A beautiful, modern AI chatbot interface powered by DeepSeek's advanced language models via OpenRouter. Built with React, TypeScript, and Tailwind CSS.
+A mordern Web based AI Chat Bot Receptionist designed to streamline front-desk operations and enhance user interaction, powered by Deepseek's R1 model.
 
-DEMO:https://clinquant-dango-07a366.netlify.app/
+**DEMO**:https://clinquant-dango-07a366.netlify.app/   
+(NOTE: When using the chat bot, responses may take time to generate as this is powered by a deep research AI model)
+
+## 📸 Screenshots
+<img width="1919" height="833" alt="image" src="https://github.com/user-attachments/assets/1eaed8f0-f1a2-42ec-bc5b-617434115db3" />
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="1919" height="837" alt="image" src="https://github.com/user-attachments/assets/d64ecbb7-1b40-4bc9-a46d-9824e6d628a6" />
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="1918" height="834" alt="image" src="https://github.com/user-attachments/assets/b1388009-a9d4-4968-94c9-f896137f8583" />
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="1919" height="824" alt="image" src="https://github.com/user-attachments/assets/3bbfd4a3-f3b1-470f-a4af-d5eb45370f10" />
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="1913" height="827" alt="image" src="https://github.com/user-attachments/assets/10bfc86a-ab9d-4d13-871d-b27cd51fb8dd" />
+
+
+
+
 
 ## ✨ Features
 
-- **🤖 Advanced AI Conversations** - Powered by DeepSeek's cutting-edge language models
+- **🤖 Advanced AI Conversations** - Powered by DeepSeek's cutting-edge language model
 - **💬 Real-time Streaming** - See responses as they're generated for a natural chat experience
 - **🎨 Beautiful UI** - Modern glass morphism design with animated backgrounds
 - **📱 Responsive Design** - Works perfectly on desktop, tablet, and mobile devices
@@ -15,6 +31,13 @@ DEMO:https://clinquant-dango-07a366.netlify.app/
 - **🔒 Secure** - API keys handled securely through environment variables
 - **♿ Accessible** - Built with accessibility best practices
 - **🎯 TypeScript** - Fully typed for better development experience
+
+## 🔧 Pending Fixes and Enchancements
+
+- Organisation centric responses (customised responses)
+- UI bug fixes (Alignment)
+- Model training using custom datasets
+- Voice communication
 
 ## 🚀 Quick Start
 
@@ -196,18 +219,8 @@ The built files will be in the `dist` directory.
 - [Tailwind CSS](https://tailwindcss.com) for the styling framework
 - [Vite](https://vitejs.dev) for the build tool
 
+Built By ~ Sushmit Arora (@notsushmit)
+         ~ Suvarcha Wadhwa (@suvarchaw)
 
-## 🔮 Future Enhancements
 
-- [ ] Message persistence with local storage
-- [ ] Multiple conversation threads
-- [ ] File upload support
-- [ ] Voice input/output
-- [ ] Custom themes
-- [ ] Backend API integration
-- [ ] User authentication
-- [ ] Message export functionality
 
----
-
-**Built with ❤️ using modern web technologies**
