@@ -8,11 +8,15 @@ A mordern Web based AI Chat Bot Receptionist designed to streamline front-desk o
 ## 📸 Screenshots
 <img width="1919" height="833" alt="image" src="https://github.com/user-attachments/assets/1eaed8f0-f1a2-42ec-bc5b-617434115db3" />
 
+
 <img width="1919" height="837" alt="image" src="https://github.com/user-attachments/assets/d64ecbb7-1b40-4bc9-a46d-9824e6d628a6" />
+
 
 <img width="1918" height="834" alt="image" src="https://github.com/user-attachments/assets/b1388009-a9d4-4968-94c9-f896137f8583" />
 
+
 <img width="1919" height="824" alt="image" src="https://github.com/user-attachments/assets/3bbfd4a3-f3b1-470f-a4af-d5eb45370f10" />
+
 
 <img width="1913" height="827" alt="image" src="https://github.com/user-attachments/assets/10bfc86a-ab9d-4d13-871d-b27cd51fb8dd" />
 
